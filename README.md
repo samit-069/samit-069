@@ -13,7 +13,7 @@
 │  samit@github:~$ whoami                          │
 │                                                  │
 │  Samit Maharjan                                  │
-│  Software Engineering Student                   │
+│  Software Engineer. Backend Developer            │
 │                                                  │
 │  samit@github:~$ focus                           │
 │                                                  │
@@ -22,7 +22,7 @@
 │                                                  │
 │  samit@github:~$ status                          │
 │                                                  │
-│  Learning → Building → Improving                │
+│  Learning → Building → Improving                 │
 └──────────────────────────────────────────────────┘
 ```
 ## About Me
